@@ -11,7 +11,7 @@ voi main()
 	int y=5;
 
 	printf("values before swapping");
-	scanf("\n x: %d\n y:\d\n",x,y);
+	scanf("\n x: %d\n y:%d\n",x,y);
 
 	printf("\n values after swapping");
 	scanf("\n x:%d\n y:%d\n",x,y);
